@@ -4,8 +4,11 @@ This application reads a CSV input file given from the command line and save tho
 
 ### Input file 
 The first line of the file will be ignored because it is assumed that it contains titles.
+
 It is expected that each row contains three fields of data about boardgames: Name, Designer and Rating.
+
 If there is an error in some row of the input file, none of the games will be added.
+
 The game name is used as key to store the data in the database.
 
 #### Example:
