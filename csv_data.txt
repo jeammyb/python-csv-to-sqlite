@@ -1,0 +1,11 @@
+name,artist,rating
+Blood Rage,Eric M. Lang,9
+Stone Age,Bernd Brunnhofer,7
+King of Tokyo,Richard Garfield,7
+Ticket to Ride,Alan R. Moon,8
+Carcassonne,Klaus-Jürgen Wrede,7
+Istanbul,Ruediger Dorn,6
+Forbidden Island,Matt Leacock,8
+Tikal,Michael Kiesling,7
+Catan,Klaus Teuber,6
+Tsuro,Tom McMurchie,8
